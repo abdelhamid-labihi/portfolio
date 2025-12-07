@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.91f45dbc.css",
+    "main.css": "/static/css/main.37957364.css",
     "main.js": "/static/js/main.61afa399.js",
     "static/js/453.298f5782.chunk.js": "/static/js/453.298f5782.chunk.js",
     "static/media/Abdelhamid-LABIHI-Resume.pdf": "/static/media/Abdelhamid-LABIHI-Resume.7a5f696c9332bb12eebe.pdf",
@@ -27,12 +27,12 @@
     "static/media/nav-icon3.svg": "/static/media/nav-icon3.d3b28b7207ff795c4218d9ab278712f8.svg",
     "index.html": "/index.html",
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.91f45dbc.css.map": "/static/css/main.91f45dbc.css.map",
+    "main.37957364.css.map": "/static/css/main.37957364.css.map",
     "main.61afa399.js.map": "/static/js/main.61afa399.js.map",
     "453.298f5782.chunk.js.map": "/static/js/453.298f5782.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91f45dbc.css",
+    "static/css/main.37957364.css",
     "static/js/main.61afa399.js"
   ]
 }
