@@ -66,8 +66,10 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio!</span>
                 <h1>{`Hi! I'm Abdelhamid`} <span className="txt-rotate"><span className="wrap">{text}</span></span></h1>
                 <p>
-                  As a final-year software engineering student at <a href="https://enset-media.ac.ma" target="_blank" rel="noopener noreferrer">ENSET-M</a>, I have built a solid foundation in full-stack web and mobile development, primarily using <span className="important-message">{`{Spring, React, and React Native}`}</span>. With expertise across various programming languages and frameworks, I am well-prepared to take on complex software projects. My passion lies in creating high-performing, user-friendly applications that deliver both efficiency and a seamless user experience. <br/>
-                  <div className="important-message">I am seeking a final study internship -PFE- opportunity to further enhance my skills and gain hands-on experience in the software development industry by January 2025.</div>
+                  Software Engineer with expertise in developing critical software products within international environments. Involved
+                  in the full project lifecycle, from business scoping to Go-Live. I combine a consultative approach with technical mastery of the
+                  <span className="important-message">{`{Java Spring, React, React Native, and Oracle APEX ecosystems}`}</span>. I aim to leverage this dual skill set to engineer high-performance
+                  solutions for your organization
                 </p>
                 <div style={{ display: 'flex', justifyContent: 'flex-start', alignItems: 'center' }}>
                   <a href={ResumePDF} download="Abdelhamid-LABIHI-Resume.pdf" className="resume-button"><span>View My Resume</span></a>
